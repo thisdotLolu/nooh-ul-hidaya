@@ -1,0 +1,94 @@
+*{
+    margin: 0px;
+    box-sizing: border-box;
+    padding: 0px;
+    margin-bottom: 10px;
+}
+hr{
+   color: blue;
+   margin-left: 100px;
+   margin-right: 100px;
+}
+#logo{
+    margin-bottom: 20px;
+}
+header{
+    margin-right: 30px;
+    width: 100%;
+}
+
+header img{
+    width: 350px;
+    margin: 20px 90px 30px 140px;
+}
+
+#content .content-img{
+    width: 100px;
+}
+.content-info{
+    text-align: center;
+
+}
+.content-info h2{
+    color: blue;
+}
+.content-info p{
+    padding-top: 20px;
+    padding-bottom: 10px;
+    font-weight: bold;
+    line-height: 30px;
+    font-size: 17px;
+}
+.content-info h1{
+    color: blue;
+}
+.apply a{
+    text-decoration: none;
+    background-color: blue;
+    color: white;
+    width: 70px;
+    padding: 10px 5px 5px 5px;
+    font-size: 25px;
+    border-radius: 20px;
+    margin-top: 20px;
+}
+
+/**Our Session**/
+.session h2{
+    font-size: 25px;
+    text-align: center;
+    padding-top: 30px;
+    color: blue;
+}
+.session p{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bolder;
+    font-size: 17px;
+}
+.session li{
+    font-size: 15px;
+    line-height: 30px;
+    font-weight: 900px;
+}
+
+/**Our Classes**/
+.classes h2{
+    font-size: 25px;
+    text-align: center;
+    padding-top: 30px;
+    color: blue;
+}
+
+.classes p{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bolder;
+    font-size: 17px;
+}
+
+.classes li{
+    font-size: 15px;
+    line-height: 30px;
+    font-weight: 900px;
+}
